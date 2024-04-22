@@ -1,5 +1,6 @@
 ### Hi  everyone 👋
-<img src="https://tryhackme-badges.s3.amazonaws.com/0x3f3c.png">
+![Screenshot from 2024-04-22 11-40-01](https://github.com/0x3f3c/0x3f3c/assets/154844497/9dacdef3-6e86-43d1-be9c-c39b341568db)
+
 <!--
 **0x3f3c/0x3f3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
