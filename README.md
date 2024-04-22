@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  everyone 👋
 
 <!--
 **0x3f3c/0x3f3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
