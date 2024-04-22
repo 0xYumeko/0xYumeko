@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div><div>
-    <a href="https://achux21.online/" style="flex: 1;">
-        <img src="portfolio_5595342.png" alt="ACHUX21" width="50" height="50">
-    </a>
-</div>
