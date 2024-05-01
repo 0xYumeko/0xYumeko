@@ -1,23 +1,10 @@
 ### Hi  everyone 👋
+![1500x500](https://github.com/0x3f3c/0x3f3c/assets/154844497/4a910113-3c9d-4497-93c2-f08cb73eb601)
+
+
 ![Screenshot from 2024-04-22 11-40-01](https://github.com/0x3f3c/0x3f3c/assets/154844497/9dacdef3-6e86-43d1-be9c-c39b341568db)
 
-<p align="center">
-  <br>
-  <samp>
-                _   _            _      ____             _    _ 
-               | | | | __ _  ___| | __ | __ )  __ _  ___| | _| |
-               | |_| |/ _` |/ __| |/ / |  _ \ / _` |/ __| |/ / |
-               |  _  | (_| | (__|   <  | |_) | (_| | (__|   <|_|
-               |_| |_|\__,_|\___|_|\_\ |____/ \__,_|\___|_|\_(_)
-                                                 
-                                
-    
 
-
-</samp>
-
-</samp>
-</details>
 <!--
 **0x3f3c/0x3f3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
