@@ -1,7 +1,6 @@
 ### Hi  everyone 👋
 ![photo_2024-05-10_16-58-22](https://github.com/0x3f3c/0x3f3c/assets/154844497/125a6162-ab3f-4d54-9a5d-aef631e1ce5b)
 
-![Screenshot from 2024-04-22 11-40-01](https://github.com/0x3f3c/0x3f3c/assets/154844497/9dacdef3-6e86-43d1-be9c-c39b341568db)
 ```
 package main
 
