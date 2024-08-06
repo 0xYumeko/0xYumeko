@@ -12,14 +12,12 @@ import (
 func main() {
     hexValue := "0x3F3C"
     
-    // Convert the hexadecimal string to an integer
     decimalValue, err := strconv.ParseInt(hexValue, 0, 64)
     if err != nil {
         fmt.Println("Error converting hexadecimal to decimal:", err)
         return
     }
     
-    // Print the decimal value
     fmt.Printf("The decimal value of %s is %d\n", hexValue, decimalValue)
 }
 
