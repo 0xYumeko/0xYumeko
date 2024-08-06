@@ -2,8 +2,29 @@
 ![photo_2024-05-10_16-58-22](https://github.com/0x3f3c/0x3f3c/assets/154844497/125a6162-ab3f-4d54-9a5d-aef631e1ce5b)
 
 ![Screenshot from 2024-04-22 11-40-01](https://github.com/0x3f3c/0x3f3c/assets/154844497/9dacdef3-6e86-43d1-be9c-c39b341568db)
+```
+package main
 
+import (
+    "fmt"
+    "strconv"
+)
 
+func main() {
+    hexValue := "0x3F3C"
+    
+    // Convert the hexadecimal string to an integer
+    decimalValue, err := strconv.ParseInt(hexValue, 0, 64)
+    if err != nil {
+        fmt.Println("Error converting hexadecimal to decimal:", err)
+        return
+    }
+    
+    // Print the decimal value
+    fmt.Printf("The decimal value of %s is %d\n", hexValue, decimalValue)
+}
+
+```
 <!--
 **0x3f3c/0x3f3c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
